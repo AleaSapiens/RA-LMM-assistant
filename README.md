@@ -20,7 +20,6 @@ RA_LMM_project/
 ├── app.py
 ├── Dockerfile
 ├── requirements.txt
-├── uv.lock
 └── models/
     └── random_forest_best_model.pkl
 ```
